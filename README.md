@@ -1,5 +1,5 @@
 # Análise deputados PB
-Orientados: Marcus Carvalho [Github](https://github.com/marcuswac)
+Orientados: [Marcus Carvalho](https://github.com/marcuswac)
 
 ## Descrição da atividade
 
